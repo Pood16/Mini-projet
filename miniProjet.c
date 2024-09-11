@@ -11,7 +11,7 @@ int main(){
     min = 20;
     sommeNote = 0;
     compteur = 0;
-    addEtudiant == 1;
+    addEtudiant = 1;
     etudiantUpmoyenne = 0;
 
     do {
